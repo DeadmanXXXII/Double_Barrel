@@ -46,5 +46,7 @@ As you can see that began exhausting resources everywhere:
 
 ![Ddos attack in work](https://raw.githubusercontent.com/DeadmanXXXII/Double_Barrel/main/Screenshot_20240816-134035.png)
 
+## Check logs for verification:
 
+So LinkedIn, GitHub and Wix will all be able to confirm this works.
 
