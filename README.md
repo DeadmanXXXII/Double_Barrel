@@ -40,7 +40,9 @@ run double_barrel.py with
 ```bash
 double_barrel.py
 ```
+As you can see that began exhausting resources everywhere:
 
+![Ddos attack in work](https://raw.githubusercontent.com/DeadmanXXXII/Double_Barrel/main/Screenshot_20240816-134035.png)
 
 
 
