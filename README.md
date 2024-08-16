@@ -29,6 +29,7 @@ python3 double_barrell_scraper.py
 With the links connecting to other resources add them too Double_Barrel.py
 where all the other links are:
 lines 24 to 28 and input the urls reduced too:
+
     "https://lnkd.in/emrjmnvZ",
     "https://lnkd.in/e3jSxi7g",
     "https://lnkd.in/e3pEtH6D",
